@@ -4,32 +4,49 @@
   "url": "http://deine.online.praesenz.de/kann/sein/twitter/facebook/eigene-webiste",
   "contact":"frederic.haase1@gmx.de",
   "repos": [
-    "orderly chaos",
+    "orderly chaos analog",
     "Colour-Picker",
     "Keep Movin",
-    "DEIN GITHUB REPO NAME ZU WEITEREN ",
-    "UND SO WEITER"
+    "orderly chaos digital ",
+    "generative-Logo"
   ],
-  "algorithm": {
-    "title": "orderly chaos",
-    "image": "ldr-1.png",
-    "thumb": "ldr-1-thumb.png",
+  "analogalgorithm": {
+    "title": "orderly chaos analog",
+    "image": "janalog.png",
+    "thumb": "janalog-thumb.png",
     "repo-url": "http://github.com/user/repo",
-    "abstract": " My rapture pants for your unsatisfied appetite. My seductive adoration attracts your winning infatuation. My  affection passionately clings to your amorous fellow feeling. My  longing fervently longs for your  passion. You are my loving rapture.\nYours tenderly,\nM.U.C."
+    "abstract": " I was realy satisfied with the results i receved. The algorithm was explicated mostly right and looked like the images i had in mind. I could manage that the images do not all look the same but it is still clear that all the people who put the alorithm into execution had the same task."
+  }
+  "digitalalgorithm": {
+    "title": "orderly chaos digital",
+    "image": "jigital.png",
+    "thumb": "jigital-thumb.png",
+    "repo-url": "https://github.com/barcula/digital-algorithm",
+    "abstract": " For me it was neccesairy to keep the optical look of paint dabs. 
+So i deceided to use png-Images of them and make them appear randomly on the white sheet. It was quite a long time for the next step: Put ellipses around every dab in different sizes and forms. But finally it worked.
+The last thing i need to do was to mark the intersection points of two or more ellipses with a black dot. At this point i didn`t come forward so i decided to break this idea a little bit down. So i said make exactly one dot at every ellipse and connect these points with black lines." 
   },
+  "generative-logo": {
+    "title": "generative logo",
+    "image": "jenerative.png",
+    "thumb": "jenerative-thumb.png",
+    "repo-url": "http://github.com/user/repo",
+    "abstract": " After i had a second look at my results i had the idea to use this to generate Logos for a fictional company. For this i needed to reduce my code to bring more clearence in the generated image. Every employee gets his own logo wich can be used for example for business cards or other print products. In this way every employee can choose his individual logo by clicking the play button as long as he finds the right one."
+  }
   "slime": {
     "title": "Color picker",
-    "image": "ldr.png",
-    "thumb": "ldr-thumb.png",
+    "image": "jasonpilz.png",
+    "thumb": "jasonpilz-thumb.png",
     "repo-url": "http://github.com/user/repo",
     "abstract": " My rapture pants for your unsatisfied appetite. My seductive adoration attracts your winning infatuation. My  affection passionately clings to your amorous fellow feeling. My  longing fervently longs for your  passion. You are my loving rapture.\nYours tenderly,\nM.U.C."
   },
   "motor-poster": {
-    "title": "YOUR TITLE FOR PHYSICAL BITS",
-    "image": "ldr.png",
-    "thumb": "ldr-thumb.png",
-    "video-prototyp-url": "http://vimeo.com/1234567",
+    "title": "Keep movin",
+    "image": "jasonmotor.png",
+    "thumb": "jasonmotor-thumb.png",
+    "repro-url":https://github.com/barcula/Motorposter
+    "video-prototyp-url": "",
     "video-url": "http://vimeo.com/1234567",
-    "abstract": "My rapture pants for your unsatisfied appetite. My seductive adoration attracts your winning infatuation. My affection passionately clings to your amorous fellow feeling. My longing fervently longs for your passion. You are my loving rapture.\nYours tenderly,\nM.U.C"
+    "abstract": "The idea of my project was to surprise the viewer with the help of an illusion. For this i used the morales effekt (6 frame anmitaion) especially because it works with movement. wich is a central topic in the modern society. Everything is getting faster, more precise and effektive. The human beeing always has to work  directly like a machine  at it`s best 24 hours a day. The human is in movement everytime to follow his aims. The question is if people still have the ability to follow their realy dreams and if they run after something with never had existed.
   }
 }
