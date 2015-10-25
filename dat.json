@@ -16,7 +16,7 @@
     "thumb": "janalog-thumb.png",
     "repo-url": "http://github.com/user/repo",
     "abstract": " I was realy satisfied with the results i receved. The algorithm was explicated mostly right and looked like the images i had in mind. I could manage that the images do not all look the same but it is still clear that all the people who put the alorithm into execution had the same task."
-  }
+  },
   "digitalalgorithm": {
     "title": "orderly chaos digital",
     "image": "jigital.png",
@@ -32,7 +32,7 @@ The last thing i need to do was to mark the intersection points of two or more e
     "thumb": "jenerative-thumb.png",
     "repo-url": "http://github.com/user/repo",
     "abstract": " After i had a second look at my results i had the idea to use this to generate Logos for a fictional company. For this i needed to reduce my code to bring more clearence in the generated image. Every employee gets his own logo wich can be used for example for business cards or other print products. In this way every employee can choose his individual logo by clicking the play button as long as he finds the right one."
-  }
+  },
   "slime": {
     "title": "Color picker",
     "image": "jasonpilz.png",
